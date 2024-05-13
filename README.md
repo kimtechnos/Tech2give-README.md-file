@@ -76,4 +76,4 @@ Explanation of difrent parts:
 The CSS box model defines how elements are structured and spaced in web design, comprising content, padding, border, and margin. Understanding and manipulating these components enables designers to create visually appealing and well-structured layouts for websites.
 ## Read More 
 - [CSS Box Model ](https://www.javatpoint.com/css-box-model)
-- [w3schools css box model](https://www.w3schools.com/css/css_boxmodel.as
+- [w3schools css box model](https://www.w3schools.com/css/css_boxmodel.asp)
